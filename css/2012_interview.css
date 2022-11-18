@@ -2,15 +2,57 @@ body {background-color: black;}
 body {
     color: whitesmoke
 }
-h1 {
-    color: rgb(157, 141, 19);
-}
-h2 {
-    color: rgb(157, 141, 19);
-}
-h3 {
-    color: rgb(157, 141, 19);
-}
+p {
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 15px;
+  letter-spacing: 0px;
+  word-spacing: 0px;
+  color: whitesmoke;
+  font-weight: 400;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  }
+  h1 {
+      color: rgb(157, 141, 19);
+      font-family: "Lucida Console", Monaco, monospace;
+      font-size: 25px;
+      letter-spacing: 0px;
+      word-spacing: 0px;
+      color: rgb(157, 141, 19);
+      font-weight: 400;
+      text-decoration: none;
+      font-style: normal;
+      font-variant: normal;
+      text-transform: none;
+  }
+  h2 {
+      color: rgb(157, 141, 19);
+      font-family: "Lucida Console", Monaco, monospace;
+      font-size: 20px;
+      letter-spacing: 0px;
+      word-spacing: 0px;
+      color: rgb(157, 141, 19);
+      font-weight: 400;
+      text-decoration: none;
+      font-style: normal;
+      font-variant: normal;
+      text-transform: none;
+  }
+  h3 {
+      color: rgb(157, 141, 19);
+      font-family: "Lucida Console", Monaco, monospace;
+      font-size: 20px;
+      letter-spacing: 0px;
+      word-spacing: 0px;
+      color: rgb(157, 141, 19);
+      font-weight: 400;
+      text-decoration: none;
+      font-style: normal;
+      font-variant: normal;
+      text-transform: none;
+  }
 .homepagebtn {
 	box-shadow:inset 0px 1px 3px 0px #91b8b3;
 	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
