@@ -11,18 +11,6 @@ h2 {
 h3 {
     color: rgb(19, 155, 157);
 }
-#borderimg {
-    border: 10px solid transparent;
-    padding: 15px;
-    border-image: url(border.png) 30 round;
-  }
-  @font-face {
-    font-family: Sans-serif;
-    src: url(Ubuntu-Regular.ttf);
-  }
-  div {
-    font-family: myFirstFont;
-  }
   .button {
     display: inline-block;
     border-radius: 4px;
